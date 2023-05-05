@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 ¡Bienvenido al archivo README de mi aplicación de Laravel 9 completa de CRUD!
 
-Descripción de la aplicación
+## Descripción de la aplicación <br>
 Esta es una aplicación completa de CRUD que permite realizar operaciones GET, PUT, DELETE y POST en una tabla de productos. En la página de cada producto, hay un botón llamado "Sell" que redirige a los detalles del producto. Aquí podemos calcular la recarga del 13% de IVA en función de la cantidad de stock que deseamos calcular. En esta página podemos ver el "Total Price" (sin IVA) y este otro "Total Price with IVA (13%)" con el cálculo del IVA. También tenemos el selector de "Quantity" para especificar la cantidad de stock que deseamos calcular.
 
 ## Instalación
