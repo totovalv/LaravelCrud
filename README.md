@@ -19,9 +19,9 @@ Para utilizar la aplicación, siga estos pasos:
 
 · Inicie el servidor de Laravel ejecutando php artisan serve.<br>
 · Abra un navegador y vaya a http://localhost:8000/products para ver la lista de productos.<br>
-· Para agregar un nuevo producto, haga clic en "Agregar producto" y complete el formulario.<br>
-· Para editar un producto existente, haga clic en "Editar" junto al producto y modifique el formulario.<br>
-· Para eliminar un producto existente, haga clic en "Eliminar" junto al producto.<br>
-· En la página de detalles del producto, encontrará el botón "Vender". Haga clic en este botón para calcular el precio total con el 13% de IVA en función de la cantidad  de stock seleccionada.<br>
+· Para agregar un nuevo producto, haga clic en "Add" y complete el formulario.<br>
+· Para editar un producto existente, haga clic en "Edit" junto al producto y modifique el formulario.<br>
+· Para eliminar un producto existente, haga clic en "Delete" junto al producto.<br>
+· En la página de detalles del producto, encontrará el botón "Sell". Haga clic en este botón para calcular el precio total con el 13% de IVA en función de la cantidad  de stock seleccionada.<br>
 
 ¡Gracias por utilizar mi aplicación de Laravel 9 completa de CRUD!<br>
