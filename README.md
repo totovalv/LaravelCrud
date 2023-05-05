@@ -9,7 +9,7 @@ Para instalar la aplicación, siga estos pasos:
 
 · Clonar este repositorio en su máquina local.<br>
 · Ejecute composer install para instalar las dependencias de Laravel.<br>
-· Copiar el archivo .env.example y renombrarlo a .env.<br>
+· Copiar el archivo .env.example y renombrarlo a .env<br>
 · Ejecute php artisan key:generate para generar una nueva clave de aplicación.<br>
 · Configure las credenciales de la base de datos en el archivo .env.<br>
 · Ejecute php artisan migrate para ejecutar las migraciones de la base de datos.<br>
