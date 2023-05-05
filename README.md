@@ -12,7 +12,7 @@ Para instalar la aplicación, siga estos pasos:
 · Copiar el archivo .env.example y renombrarlo a .env<br>
 · Ejecute php artisan key:generate para generar una nueva clave de aplicación.<br>
 · Configure las credenciales de la base de datos en el archivo .env.<br>
-· Ejecute php artisan make:migration create_students_table --create=students para ejecutar las migraciones de la base de datos.<br>
+· Ejecute php artisan make:migration create_products_table --create=products para ejecutar las migraciones de la base de datos.<br>
 
 ## Uso
 Para utilizar la aplicación, siga estos pasos:
